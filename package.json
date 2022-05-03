@@ -1,6 +1,6 @@
 {
   "name": "commonyo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "main.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gimapei/commonyo.git"
   },
   "author": "gimapei@gmail.com",
   "license": "ISC"
