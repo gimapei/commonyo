@@ -1,0 +1,14 @@
+{
+  "name": "commonyo",
+  "version": "1.0.2",
+  "description": "",
+  "main": "main.js",
+  "bin": {
+    "daia":"./main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gimapei@gmail.com",
+  "license": "ISC"
+}
